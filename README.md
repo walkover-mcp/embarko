@@ -40,9 +40,9 @@ claude mcp add --transport http embarko https://mcp.embarko.ai/mcp
 then run `/mcp` and sign in.
 
 ## MCP Registry
-The server is listed in the official MCP Registry as `io.github.swayammaheshwari/embarko-mcp`; [server.json](server.json) is the listing. The logo shown there comes from `icons` in `server.json`. To publish a change, bump `version` in `server.json`, then:
+The server is listed in the official MCP Registry as `com.walkover.embarko/embarko`; [server.json](server.json) is the listing. The logo shown there comes from `icons` in `server.json`. To publish a change, bump `version` in `server.json`, then:
 ```bash
-mcp-publisher login github     # as swayammaheshwari, who owns the io.github.swayammaheshwari namespace
+mcp-publisher login dns --domain embarko.ai --private-key "..."
 mcp-publisher publish
 ```
 

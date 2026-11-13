@@ -39,6 +39,17 @@ claude mcp add --transport http embarko https://mcp.embarko.ai/mcp
 ```
 then run `/mcp` and sign in.
 
+## Connect from Kiro
+[![Add to Kiro](https://kiro.dev/images/add-to-kiro.svg)](https://kiro.dev/launch/mcp/add?name=embarko&config=%7B%22url%22%3A%22https%3A%2F%2Fmcp.embarko.ai%2Fmcp%22%2C%22disabled%22%3Afalse%7D)
+
+Or open **MCP Servers → Add MCP Server** and use:
+```json
+{
+  "url": "https://mcp.embarko.ai/mcp",
+  "disabled": false
+}
+```
+
 ## MCP Registry
 The server is listed in the official MCP Registry as `com.walkover.embarko/embarko`; [server.json](server.json) is the listing. The logo shown there comes from `icons` in `server.json`. To publish a change, bump `version` in `server.json`, then:
 ```bash

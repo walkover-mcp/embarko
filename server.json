@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "com.walkover.embarko/embarko",
+  "name": "ai.embarko.mcp/mcp",
   "title": "Embarko",
   "description": "Deploy and host AI-built apps and websites, and get a live URL without any DevOps setup.",
   "version": "1.0.1",

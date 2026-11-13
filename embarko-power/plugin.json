@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "embarko",
+  "version": "1.0.0",
+  "description": "Deploy and host AI-built apps and websites with a live URL — no DevOps setup required.",
+  "author": {
+    "name": "Walkover",
+    "url": "https://embarko.ai",
+    "email": "hello@embarko.ai"
+  },
+  "keywords": ["deploy", "hosting", "publish", "embarko", "live url", "app deployment", "website", "host app"],
+  "homepage": "https://embarko.ai/docs/quickstart",
+  "repository": "https://github.com/walkover-mcp/embarko",
+  "license": "MIT"
+}

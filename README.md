@@ -64,3 +64,7 @@ mcp-publisher publish
 ## Docs
 - Quickstart: https://embarko.ai/docs/quickstart
 - Connectors: https://embarko.ai/docs/connectors
+
+## Support
+- Email: hello@embarko.ai
+- Privacy Policy: https://embarko.ai/privacy

@@ -1,0 +1,13 @@
+{
+  "identifier": "embarko",
+  "name": "Embarko",
+  "version": "1.0.1",
+  "description": "Deploy and host AI-built apps and websites, and get a live URL without any DevOps setup.",
+  "author": "Walkover",
+  "authorUrl": "https://github.com/walkover-mcp",
+  "homepage": "https://embarko.ai",
+  "cloudEndpoint": "https://mcp.embarko.ai/mcp",
+  "icon": "https://embarko.ai/assets/embarko-icon.svg",
+  "category": "developer",
+  "tags": ["deployment", "hosting", "web-apps", "devops"]
+}

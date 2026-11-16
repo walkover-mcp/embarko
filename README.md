@@ -1,6 +1,8 @@
 <p align="center"><img src="assets/embarko-logo.png" alt="Embarko" width="120"></p>
 
-# Embarko MCP
+# Embarko
+
+[![MCP Badge](https://lobehub.com/badge/mcp/embarko?style=plastic)](https://lobehub.com/mcp/embarko)
 
 Deploy and host AI-built apps and websites, and get a live URL without any DevOps setup. [Embarko](https://embarko.ai) runs the app at `https://<app-name>.embarko.app`.
 

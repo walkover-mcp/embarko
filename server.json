@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "ai.embarko.mcp/mcp",
+  "name": "io.github.swayammaheshwari/embarko-mcp",
   "title": "Embarko",
   "description": "Deploy and host AI-built apps and websites, and get a live URL without any DevOps setup.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://embarko.ai",
   "repository": {
     "url": "https://github.com/walkover-mcp/embarko",
